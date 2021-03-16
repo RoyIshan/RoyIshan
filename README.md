@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### Connect with me:
+### ➡️ Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-IshanRoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-roy-a06347192//)](https://www.linkedin.com/in/ishan-roy-a06347192/)
 </br>
@@ -72,17 +72,16 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>Recent Activity</summary>
   <br />
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/yash3001/mcbot/pull/2) in [yash3001/mcbot](https://github.com/yash3001/mcbot)
 <!--END_SECTION:activity-->
   <br />
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary> :zap: Languages Used</summary>
   <br />
   <img alt="Ishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyIshan&langs_count=10" />  
   <br /> 

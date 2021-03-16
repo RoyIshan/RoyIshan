@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <br />
 
-### Hi there!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+### Hello There! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 <br />
 
-## I'm a Student, Developer, and Youtuber!!
+## I'm a Student and a Developer!!
 
 - 🌱 I’m currently learning everything.
 - ⌨️ I like competitive programming(3\* on codechef) and fast typing(100wpm).
@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-IshanRoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-roy-a06347192/)](https://www.linkedin.com/in/ishan-roy-a06347192/)
+[![Linkedin Badge](https://img.shields.io/badge/-IshanRoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-roy-a06347192//)](https://www.linkedin.com/in/ishan-roy-a06347192/)
 </br>
-[![Gmail Badge](https://img.shields.io/badge/-ishanroy99@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanroy99@yahoo.com)](mailto:ishanroy99@yahoo.com)
+[![Gmail Badge](https://img.shields.io/badge/-ishanroy99@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanroy99@yahoo.com)]
 
 <br />
 <br />
@@ -75,15 +75,16 @@ Here are some ideas to get you started:
   <br />
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/yash3001/mcbot/pull/2) in [yash3001/mcbot](https://github.com/yash3001/mcbot)
 <!--END_SECTION:activity-->
   <br />
 </details>
- |<img src="https://github-readme-stats.vercel.app/api?username=RoyIshan&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyIshan"/>|
- |---|---|
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img alt="Ishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyIshan&langs_count=10" />
+  <br />
+  <img alt="Ishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyIshan&langs_count=10" />  
+  <br /> 
 </details>
 
 <p align="center"> 

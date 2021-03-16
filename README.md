@@ -75,7 +75,6 @@ Here are some ideas to get you started:
   <br />
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/yash3001/mcbot/pull/2) in [yash3001/mcbot](https://github.com/yash3001/mcbot)
 <!--END_SECTION:activity-->
   <br />
 </details>
@@ -83,7 +82,8 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Most Used Languages</summary>
   <br />
-  <img alt="Ishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyIshan&langs_count=10" />  
+  |<img src="https://github-readme-stats.vercel.app/api?username=RoyIshan&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyIshan"/>|
+|---|---|
   <br /> 
 </details>
 

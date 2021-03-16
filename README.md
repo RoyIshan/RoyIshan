@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### Hello There! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+## Hello There! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 <br />
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### ➡️ Connect with me:
+## ➡️ Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-IshanRoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-roy-a06347192//)](https://www.linkedin.com/in/ishan-roy-a06347192/)
 </br>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### Languages and Tools I Use:
+## Languages and Tools I Use:
 
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visual studio]

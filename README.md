@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-IshanRoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-roy-a06347192/)](https://www.linkedin.com/in/ishan-roy-a06347192/) [![Medium Badge](https://img.shields.io/badge/-@abhishek2x-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abhishek2x/)](https://medium.com/@abhishek2x)
+[![Linkedin Badge](https://img.shields.io/badge/-IshanRoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-roy-a06347192/)](https://www.linkedin.com/in/ishan-roy-a06347192/)
 </br>
 [![Gmail Badge](https://img.shields.io/badge/-ishanroy99@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanroy99@yahoo.com)](mailto:ishanroy99@yahoo.com)
 

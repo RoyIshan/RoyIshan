@@ -81,10 +81,8 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <br />
   |<img src="https://github-readme-stats.vercel.app/api?username=RoyIshan&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyIshan"/>|
 |---|---|
-  <br /> 
 </details>
 
 <p align="center"> 

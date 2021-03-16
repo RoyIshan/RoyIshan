@@ -78,11 +78,12 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
   <br />
 </details>
+ |<img src="https://github-readme-stats.vercel.app/api?username=RoyIshan&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyIshan"/>|
+ |---|---|
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  |<img src="https://github-readme-stats.vercel.app/api?username=RoyIshan&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyIshan"/>|
-|---|---|
+  <img alt="Ishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyIshan&langs_count=10" />
 </details>
 
 <p align="center"> 

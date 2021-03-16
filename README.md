@@ -34,10 +34,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-IshanRoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-roy-a06347192/)](https://www.linkedin.com/in/ishan-roy-a06347192/) [![Medium Badge](https://img.shields.io/badge/-@abhishek2x-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@abhishek2x/)](https://medium.com/@abhishek2x)
+</br>
+[![Gmail Badge](https://img.shields.io/badge/-ishanroy99@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanroy99@yahoo.com)](mailto:ishanroy99@yahoo.com)
 
 <br />
 <br />

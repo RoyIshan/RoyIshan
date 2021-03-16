@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 
 ## I'm a Student and a Developer!!
 
-- 🌱 I’m currently learning everything.
-- ⌨️ I like competitive programming(3\* on codechef) and fast typing(100wpm).
-- 👯 I’m looking to collaborate with other content creators.
+- 🌱 I’m currently working on something I guess 😆
+- ⌨️ I'm currently learning everything I can.
+- 👯 I’m looking to collaborate on NOTHING.
 - 🥅 2020 Goals: Ruined by coronavirus.
-- ⚡ Fun fact: I use arch linux, btw 😉.
+- 💬 Ask me about anything and everything !!
+- 📫 How to **Reach** me at: ishanroy99@yahoo.com 
+- ⚡ Fun fact: Just gooogle it 
 
 <br />
 

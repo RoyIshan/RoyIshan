@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-IshanRoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-roy-a06347192//)](https://www.linkedin.com/in/ishan-roy-a06347192/)
 </br>
-[Gmail Badge](https://img.shields.io/badge/-ishanroy99@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanroy99@yahoo.com)
+![Gmail Badge](https://img.shields.io/badge/-ishanroy99@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanroy99@yahoo.com)
 
 <br />
 <br />
@@ -66,7 +66,6 @@ Here are some ideas to get you started:
 
 ---
 
-![Visitor Count](https://github-readme-stats.vercel.app/api?username=RoyIshan&count_private=true&theme=cobalt)
 |<img src="https://github-readme-stats.vercel.app/api?username=RoyIshan&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyIshan"/>|
 |---|---|
 

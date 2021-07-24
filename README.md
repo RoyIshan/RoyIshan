@@ -74,15 +74,6 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>Recent Activity</summary>
-  <br />
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-  <br />
-</details>
-
-<details>
   <summary> :zap: Languages Used</summary>
   <br />
   <img alt="Ishan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyIshan&langs_count=10" />  

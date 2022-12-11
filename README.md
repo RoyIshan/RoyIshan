@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Hello There! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" >
 -->
 
 
-<br />
 
-## Hello There! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+<h1 align="center" style="bold"> Hello There! 👋 I'm Ishan Roy</h1>
 
 <br />
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working on something I guess 😆
 - ⌨️ I'm currently learning everything I can.
 - 👯 I’m looking to collaborate on NOTHING.
-- 🥅 2022 Goals: Still don't have any.
+- 🥅 2023 Goals: Still don't have any.
 - 💬 Ask me about anything and everything !!
 - 📫 How to **Reach** me at: ishanroy99@yahoo.com 
 - ⚡ Fun fact: Just gooogle it 
@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
-<br />
 <br />
 <br />
 
